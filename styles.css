@@ -72,6 +72,22 @@ h2 {
   text-align: right;
   width: 25%;
 }
+.coffee {
+  color: saddlebrown;
+}
+.Desserts {
+  color: forestgreen;
+}
+.item-line {
+  width: 150px;
+  background-color: forestgreen;
+  border-color: forestgreen;
+}
+.drink-line {
+  width: 150px;
+  background-color: saddlebrown;
+  border-color: saddlebrown;
+}
 
 /* FOOTER */
 
